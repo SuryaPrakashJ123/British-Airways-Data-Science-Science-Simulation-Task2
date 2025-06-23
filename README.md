@@ -61,8 +61,8 @@ The dataset (`customer_booking (1).csv`) contains detailed records of individual
   - **Booking origin**
   - **Customer preferences** (meals, seat selection)
 - Visualized the top drivers using a bar chart.
-![Feature Importance Chart](images/feature_importance.png)
-
+![Feature Importance Chart](Images/feature_importance.png)
+![Feature Importance Chart](Images/presentationsummary.jpg)
 ---
 
 ## Code Summary
